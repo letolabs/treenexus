@@ -49,7 +49,7 @@
 "@xsi:type": "nex:LiteralMeta"
 }, 
 {
-"$": "2013-12-21T21:28:57.392075", 
+"$": "2013-12-23T05:56:07.895794", 
 "@property": "bogus_timestamp", 
 "@xsi:type": "nex:LiteralMeta"
 }, 
@@ -95,8 +95,8 @@
 "url": "https://github.com/OpenTreeOfLife/api.opentreeoflife.org", 
 "version": "0.0.2a"
 }, 
-"dateCreated": "2013-12-21T21:28:58.995598", 
-"id": "meta-e74c49fa-6a86-11e3-a0c7-7cd1c3ef3b43", 
+"dateCreated": "2013-12-23T05:56:08.506906", 
+"id": "meta-eb1d21a6-6b96-11e3-8182-7cd1c3ef3b43", 
 "isValid": false, 
 "messages": [
 {
